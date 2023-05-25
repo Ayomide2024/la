@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+ background-image: linear-gradient(rgba(0,0,0,40%),rgba(0,0,0,40%)),url(housebuilding-1407499.jpg);
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    height: 100vh;
+}
+nav{
+    background-color: #fff;
+    padding: 7px 15px;
+    font-family: monospace;
+}
+.yo h1{
+color: #fff;
+font-family: monospace;
+}
+.yo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.yos button{
+color: #fff;
+background-color: blue;
+padding: 5px 10px;
+border: none;
+border-radius: 20px;
+}
+.yos{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.co{
+    background-color: #fff;
+    font-family: monospace;
+}
